@@ -1,3 +1,8 @@
+//Nama      : Nur Riskon Abdan Syakuro
+//  NIM       : 23176031
+//  Prodi     : Sistem Informasi
+//  Deskripsi : Program ini berisi tentang menghitung tunjangan karyawan yang sudah menikah/belum dan total gaji.
+
 import java.util.Scanner;
 
 public class latihan17 {
